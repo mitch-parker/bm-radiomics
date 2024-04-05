@@ -1,0 +1,7 @@
+tcia-utils==2.1.1
+pyradise==0.2.3
+foundation-cancer-image-biomarker==1.0.0
+pyradiomics==3.0.1
+tqdm==4.66.2
+jupyterlab==3.5.3
+roc-utils==0.2.2
